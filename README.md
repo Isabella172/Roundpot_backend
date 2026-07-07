@@ -1,6 +1,6 @@
 # Roundpot — Backend Architecture
 
-A digital susu / rotating savings group (ROSCA) platform built with Django + Django REST Framework. This document is the architectural source of truth — read it top to bottom before writing code, and come back to it as you build each app.
+A digital susu / rotating savings group (ROSCA) platform built with Django + Django REST Framework. This document is the architectural source of truth.
 
 ---
 
